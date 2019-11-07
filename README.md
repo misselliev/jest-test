@@ -1,7 +1,7 @@
 ![node](https://img.shields.io/node/v/webpack?style=flat-square)
 ![](https://img.shields.io/badge/beta-development-green?style=flat-square)
 
-# Dulce Jest
+# Jest Test
 
 Practicing TDD using Jest.
 
