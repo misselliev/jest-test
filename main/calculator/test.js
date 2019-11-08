@@ -1,4 +1,4 @@
-const calculator = require('../capitalize/index');
+const calculator = require('./index');
 
 test('calculator function exists', () => {
   expect(calculator).toBeDefined();
